@@ -2,4 +2,4 @@
 
 Este texto pertenece al readme
 
-Este es un segundo parrafo
+Otra cosa
